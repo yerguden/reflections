@@ -1,0 +1,8 @@
+Q : learned git init, yes this is not a question. im tried.
+
+Q :What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+A: consider you need to add a new feature without changing existing code or/and
+expriment on existing code while saving it branch gives you that benefit in an
+organized manner.
