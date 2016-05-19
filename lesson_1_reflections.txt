@@ -22,4 +22,4 @@ A : use log to spot commits, diff to view additions and deletions
 Q : How might using version control make you more confident to make changes
 that could break something?
 
-A : We can always revert :) 
+A : We can always revert 
