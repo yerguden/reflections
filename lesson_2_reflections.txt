@@ -6,3 +6,7 @@ history organized? How would branches help?
 A: consider you need to add a new feature without changing existing code or/and
 expriment on existing code while saving it branch gives you that benefit in an
 organized manner.
+
+Q : How do the diagrams help you visualize the branch structure?
+
+A : They give us a better understanding of branches by visualizing them.
